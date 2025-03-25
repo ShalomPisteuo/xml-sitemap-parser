@@ -2,6 +2,7 @@
   "name": "@ShalomPisteuo/xml-sitemap-parser",
   "version": "1.0.0",
   "description": "A utility to parse XML sitemaps and sitemap indexes",
+  "repository": "https://github.com/ShalomPisteuo/xml-sitemap-parser.git",
   "main": "sitemap-parser.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,6 +15,9 @@
     "crawler"
   ],
   "author": "David Morrison - AI",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "license": "MIT",
   "dependencies": {
     "node-fetch": "^2.6.9",
