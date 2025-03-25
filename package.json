@@ -1,0 +1,22 @@
+{
+  "name": "xml-sitemap-parser",
+  "version": "1.0.0",
+  "description": "A utility to parse XML sitemaps and sitemap indexes",
+  "main": "sitemap-parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sitemap",
+    "xml",
+    "parser",
+    "seo",
+    "crawler"
+  ],
+  "author": "David Morrison - AI",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.9",
+    "xml2js": "^0.6.2"
+  }
+} 
