@@ -1,5 +1,5 @@
 {
-  "name": "xml-sitemap-parser",
+  "name": "@ShalomPisteuo/xml-sitemap-parser",
   "version": "1.0.0",
   "description": "A utility to parse XML sitemaps and sitemap indexes",
   "main": "sitemap-parser.js",
